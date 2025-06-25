@@ -1,6 +1,13 @@
 # CodePath_iOS_Prework
 Fall 2025 Intro to iOS Development
-
+<div>
+    <a href="https://www.loom.com/share/2a72f6002dc04aba97399b77eda9c23c">
+    </a>
+    <a href="https://www.loom.com/share/2a72f6002dc04aba97399b77eda9c23c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2a72f6002dc04aba97399b77eda9c23c-677aebb3ad0d8d4d-full-play.gif">
+    </a>
+  </div>
+ 
 
 # Prework - *Roster*
 
