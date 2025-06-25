@@ -2,13 +2,13 @@
 Fall 2025 Intro to iOS Development
 
 
-# Prework - *Name of App Here*
+# Prework - *Roster*
 
 Submitted by: **Nicole Roberson**
 
-**Name of your app** is an app that... [TODO] 
+**Roster** is an app that manages a student's academic schedule without the enterprise features typically seen in project management tools.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -16,12 +16,14 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+
+Additional improvements:
+- [x] Changed the background  to custom color for all three labels
+- [x] Added three icons with custom background color
+- [x] Included a custom image view
+- [x] Navigation Bar with custom background color added
+- [x] Font style for all three labels, navigation bar, and button changed to bold
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
@@ -36,6 +38,8 @@ YouTube
 Apple Podcast
 1. Automatic downloads of favorite podcast
 2. Recommendations of similar shows to listen to
+
+I would like to build an assignment tracking tool specifically for students: While there are several project management options available, many of the features are unnecessary for students. Users would be able to organize their academic life (assignments, projects, clubs, networking events, and work) by semester and year. Reminders can be set for deadlines. Students can also have sharing capabilites with link expiration for collaboration and security benefits.
 
 ## License
 
